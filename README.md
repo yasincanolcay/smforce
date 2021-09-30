@@ -1,7 +1,7 @@
 # smforce
 SMTP BRUTEFORCE TOOL - GMAİL BRUTEFORCE TEST
 -----------------------------------------------
-EXAPLE:
+EXAMPLE:
 -------
 git clone https://github.com/yasincanolcay/smforce.git
 
