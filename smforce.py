@@ -32,6 +32,7 @@ print(banner)
 try:
 
     eposta = input("[+]>>>Target Gmail: ")
+    print(">> No .txt , only file path and name")
     wordlist = input("[+]>>>Wordlist File: ")
     print("___________________________________")
     print("I hope you're not doing anything illegal")
